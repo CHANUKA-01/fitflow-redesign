@@ -1,0 +1,54 @@
+# --- secrets ---------------------------------------------------------------
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+service-account*.json
+
+# --- Python ----------------------------------------------------------------
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+htmlcov/
+.coverage
+
+# --- Node / Next.js --------------------------------------------------------
+node_modules/
+.next/
+out/
+dist/
+npm-debug.log*
+yarn-error.log*
+.turbo/
+
+# --- Flutter / Dart --------------------------------------------------------
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+build/
+*.iml
+ios/Pods/
+ios/.symlinks/
+android/.gradle/
+android/local.properties
+*.jks
+*.keystore
+
+# --- ML artefacts (tracked in the model registry, not in git) --------------
+*.tflite
+*.onnx
+*.pt
+models/checkpoints/
+
+# --- tooling ---------------------------------------------------------------
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+coverage/
