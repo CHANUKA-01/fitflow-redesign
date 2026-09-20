@@ -96,6 +96,10 @@ cd ../mobile && flutter pub get && flutter run
 - Branch names carry the requirement they serve: `feat/R08-camera-first-nutrition`.
 - Every pull request states the requirement or issue ID it closes and its test evidence.
 - `main` is protected: review required, CI must pass, no force pushes.
+- CI checks the documentation set and scans dependencies on every push. The four service jobs
+  (`Core API`, `AI inference service`, `Web client`, `Mobile client`) skip themselves while a service is
+  still a scaffold, and run lint, build and tests in full from the commit that adds its dependency
+  manifest — `requirements.txt`, `package.json` or `pubspec.yaml`.
 
 ## Status
 
