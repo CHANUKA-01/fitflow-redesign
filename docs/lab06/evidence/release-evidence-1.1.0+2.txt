@@ -1,0 +1,57 @@
+FitFlow Android release evidence
+Version (pubspec): 1.1.0+2
+Generated: 2026-10-04 00:52:23 UTC
+Commit: 9fd3e05
+Flutter: Flutter 3.47.6 • channel stable • https://github.com/flutter/flutter.git
+
+== Artefacts ==
+  48580237  build/app/outputs/bundle/release/app-release.aab
+  17624050  build/app/outputs/flutter-apk/app-arm64-v8a-release.apk
+  14868924  build/app/outputs/flutter-apk/app-armeabi-v7a-release.apk
+  49516995  build/app/outputs/flutter-apk/app-release.apk
+  19124209  build/app/outputs/flutter-apk/app-x86_64-release.apk
+
+== SHA-256 checksums ==
+eb414385335482a18294aadfac4db7d8311c9e0d5a7a150d1958e1a02542949c  build/app/outputs/bundle/release/app-release.aab
+bd1a181298c0b47a379a72f5e09f35196aba78f66e2a55f0fca349e8e0e89a33  build/app/outputs/flutter-apk/app-release.apk
+
+== AAB signature (jarsigner) ==
+jar verified.
+Owner: CN=FitFlow Upload Key, OU=IT3060 WE 1.1, O=FitFlow, L=Malabe, ST=Western, C=LK
+Valid from: Sat Oct 03 21:23:08 IST 2026 until: Mon Sep 25 21:23:08 IST 2056
+	 SHA256: 93:B8:CF:64:31:72:92:77:8C:DA:A9:3D:ED:CB:96:90:67:EB:08:FA:3C:78:4D:4E:93:5D:29:8B:38:BA:57:51
+Signature algorithm name: SHA384withRSA
+
+== APK signature (apksigner) ==
+Verifies
+Verified using v1 scheme (JAR signing): false
+Verified using v2 scheme (APK Signature Scheme v2): true
+Verified using v3 scheme (APK Signature Scheme v3): false
+Verified using v3.1 scheme (APK Signature Scheme v3.1): false
+Verified using v4 scheme (APK Signature Scheme v4): false
+Signer #1 certificate DN: CN=FitFlow Upload Key, OU=IT3060 WE 1.1, O=FitFlow, L=Malabe, ST=Western, C=LK
+Signer #1 certificate SHA-256 digest: 93b8cf64317292778cdaa93dedcb969067eb08fa3c784d4e935d298b38ba5751
+Signer #1 key size (bits): 4096
+
+== Manifest (aapt2) ==
+package: name='io.fitflow.app' versionCode='2' versionName='1.1.0'
+minSdkVersion:'24'
+targetSdkVersion:'36'
+uses-permission: name='io.fitflow.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION'
+native-code: 'arm64-v8a' 'armeabi-v7a' 'x86_64'
+
+== R8 shrinking ==
+mapping.txt present (   66877 lines) - code was obfuscated
+Dart symbols split to build/debug-info: app.android-arm.symbols app.android-arm64.symbols app.android-x64.symbols 
+
+== Estimated Play download size per device (bytes, bundletool) ==
+SDK,ABI,MIN,MAX
+24-28,armeabi-v7a,7473357,7508851
+24-28,x86_64,8224105,8259599
+24-28,arm64-v8a,8053668,8089162
+29-31,x86_64,8228105,8263603
+29-31,armeabi-v7a,7477337,7512835
+29-31,arm64-v8a,8057651,8093149
+32-,armeabi-v7a,7477458,7512913
+32-,x86_64,8228207,8263662
+32-,arm64-v8a,8057781,8093236

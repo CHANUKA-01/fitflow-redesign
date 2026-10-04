@@ -1,0 +1,28 @@
+FitFlow gives you one clear workout a day, planned around the time you have, the energy you feel and the equipment you own, and it tells you why every exercise is in it.
+
+TODAY'S FOCUS, ONE TAP AWAY
+Open the app and your workout is already waiting. Tell FitFlow whether your energy is low, normal or high and the plan adjusts. Start straight from the home screen with no setup.
+
+A PLANNER THAT EXPLAINS ITSELF
+Tap "Why this workout?" to see the reasons behind your plan: your goal, your time, yesterday's session and any injuries you told us about. Change the length or difficulty, swap an exercise you don't like, or generate a fresh plan. The planner runs on your phone and nothing is sent to a server.
+
+LOG A SET WITH A SINGLE TAP
+Your weights and reps from last time are already filled in. Tap once to log, and a rest timer starts automatically. Finish a workout to see new personal bests and how close you are to your weekly goal.
+
+SNAP YOUR MEAL
+Take a photo of your plate. FitFlow recognises the food on your device, shows how confident it is about each item and lets you adjust portions before anything is saved. The photo is deleted as soon as you leave the screen. Prefer typing? Add food manually from a list that includes everyday Sri Lankan dishes such as rice and curry, string hoppers and dhal.
+
+PRIVATE CIRCLES BY DEFAULT
+Share wins and questions with a small circle of training partners. Every post clearly says who can see it, and new posts go to your private circle unless you choose otherwise.
+
+PROGRESS IN PLAIN WORDS
+See one headline number and a simple sentence about your week or month. Missed a few days? Your streak can recover, so one bad week doesn't wipe out your progress.
+
+YOUR DATA, YOUR CALL
+This version keeps your data on your device. Export everything as a file or delete it all from Settings at any time. FitFlow asks no permissions for contacts, location or storage.
+
+Designed for accessibility: large touch targets, support for larger text and labels for screen readers.
+
+FitFlow provides general fitness and nutrition information. It is not a medical device and does not diagnose, treat or prevent any condition. Talk to a qualified professional before starting a new exercise or diet programme if you have a health condition.
+
+Privacy policy: https://chanuka-01.github.io/fitflow-redesign/privacy-policy/
